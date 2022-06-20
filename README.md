@@ -1,9 +1,9 @@
 Всем привет сегодня я вам покажу приложние для авто
 установка:
 
-pkg install git
+pkg install git 
 
-git clone
+git clone https://gitlab.com/Dvauns/inverter-auto-for-termux.git
 
 cd Inverter Auto fot Termux
 
