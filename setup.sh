@@ -1,6 +1,8 @@
 #!bin/bash
 
 apt update
+pkg install python
+pkg install python2
 apt install perl
 pkg install tty-clock
 pkg install w3m
